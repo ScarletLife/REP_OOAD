@@ -1,1 +1,1 @@
-
+ComsoleWriteLine ("Новый файл");
